@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Avijit Chowdhury</h1>
-<h3 align="center">I'm a self-taught Web and Android Developer. Specializing in Front End Development. Experienced with different approaches to the development of dynamic web and app projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, Java, ,C++, C, FORTRAN, MATLAB etc. Strong background in project management and customer relations. Currently, I am completing Undergraduate(Bsc Engineering)from Chittagong University of Engineering & Technology, Chittagong, Bangladesh. I'm interested in developing user friendly web apps in MERN Stack I love to work with new technologies and playing with different stacks.🤖</h3>
+<h3 align="center">I'm a self-taught Web and Android Developer. Specializing in Front End Development.</h3>
+<p> Experienced with different approaches to the development of dynamic web and app projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, Java, ,C++, C, FORTRAN, MATLAB etc.</p><p> Strong background in project management and customer relations.<p> Currently, I am completing Undergraduate(Bsc Engineering)from Chittagong University of Engineering & Technology, Chittagong, Bangladesh.</p><p> I'm interested in developing user friendly web apps in MERN Stack I love to work with new technologies and playing with different stacks.🤖</p>
 
-- 🔭 I’m currently working on **diffenrent web and android projects.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avroneel&label=Profile%20views&color=0e75b6&style=flat" alt="avroneel" /> </p>
+
+- 🔭 I’m currently working on **different web and android projects.**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -14,12 +17,12 @@
 <a href="https://twitter.com/avijitchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avijitchy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/avijitchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/avijitchy" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/scientistavijit64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/scientistavijit64" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/avijitchy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avijitchy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avijitchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avijitchy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/avroneel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="avroneel" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/avijit_chy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avijit_chy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/avijit_chy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avijit_chy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/avroneel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/avroneel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avijitchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avijitchy" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/avijitchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="avijitchy" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/avijitchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="avijitchy" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhichy30/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhichy30/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avroneel&show_icons=true&locale=en&layout=compact" alt="avroneel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avroneel&show_icons=true&locale=en" alt="avroneel" /></p>
+
