@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avijit Chowdhury</h1>
+<h1 align="left">Hi 👋, I'm Avijit Chowdhury</h1><img width="550" align="right" src="https://i.imgur.com/kuULyJ8.png"></a>
 <h3 align="center">I'm a self-taught Web and Android Developer. Specializing in Front End Development(web) and full stack development(android).</h3>
 <p> Experienced with different approaches to the development of dynamic web and app projects. Well-versed in numerous programming languages & libraries including HTML5, CSS, JavaScript, ReactJS, NodeJS, MongoDB, MySQL, Python, Java, ,C++, C, FORTRAN, MATLAB etc.</p><p> Strong background in project management and customer relations.<p> Currently, I am completing Undergraduate (Bsc Engineering) from Chittagong University of Engineering & Technology, Chittagong, Bangladesh.</p><p> I'm interested in developing user friendly web apps in MERN Stack I love to work with new technologies and playing with different stacks.🤖</p>
 
