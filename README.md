@@ -46,7 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avroneel&show_icons=true&locale=en" alt="avroneel" /></p> -->
 
 <p align="left">
-  <a href="https://github.com/harunurrashid97"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SakifKhan98&layout=compact&theme=radical" />
+  <a href="https://github.com/harunurrashid97"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avroneel&layout=compact&theme=radical" />
 </a>
 </p>
 
