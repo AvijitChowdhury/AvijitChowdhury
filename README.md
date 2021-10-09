@@ -45,3 +45,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avroneel&show_icons=true&locale=en" alt="avroneel" /></p>
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=avroneel&theme=synthwave&show_icons=true" alt="avroneel" /> </h1>
+
