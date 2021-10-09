@@ -53,7 +53,6 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=avroneel&theme=synthwave&show_icons=true" alt="avroneel" /> </h1>
 
 
-<img align="left" alt="Mehrab Haque's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avroneel&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=avroneel&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
