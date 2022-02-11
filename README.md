@@ -35,6 +35,9 @@
   <li>
      <b>3rd winner: </b> IOT and Machine learining competition by Research lab chattogram
    </li>
+  <li>
+    <b>1st RunnersUp :RMA hackathon</b>
+  </li>
 
 
 </ul>
