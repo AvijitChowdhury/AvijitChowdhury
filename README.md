@@ -1,6 +1,6 @@
 <h4 align="left">Hi 👋, I'm </h4><img width="550" align="right" src="images/Software developer.png"></a>
 <h2 align="left">Avijit Chowdhury</h2>
-<h3 align="left">I'm a self-taught Web and Android Programmer. Proficient in Front End Development(web) and full stack development(android).</h3>
+<h3 align="left">I'm a Web and Android Programmer. Proficient in Front End Development(web) and full stack development(android).</h3>
 <p> Well-versed in numerous programming languages & libraries including HTML5, CSS3, Bootsrap, ReactBootsrap, Material UI, JavaScript(ES6), ReactJS, NodeJS, MongoDB, MySQL, Python, Java, ,C++, C,Ros, FORTRAN, MATLAB etc.</p><p> Currently, I am completing Undergraduate (Bsc Engineering) from Chittagong University of Engineering & Technology, Chittagong, Bangladesh.</p><p> I'm interested in developing web ,android and ROS projects.🤖</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avroneel&label=Profile%20views&color=0e75b6&style=flat" alt="avroneel" /> </p>
