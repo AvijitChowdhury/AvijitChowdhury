@@ -50,13 +50,9 @@
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avroneel&show_icons=true&locale=en" alt="avroneel" /></p> -->
 
-<p align="left">
-  <a href="https://github.com/harunurrashid97"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=avroneel&layout=compact&theme=radical" />
-</a>
-</p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=avroneel&theme=synthwave&show_icons=true" alt="avroneel" /> </h1>
-
+<img align="left" alt="Mehrab Haque's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvijitChowdhury&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AvijitChowdhury&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
