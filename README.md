@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://avijitchowdhury.github.io/My-Portfolio/#portfolio](https://avijitchowdhury.github.io/My-Portfolio/#portfolio)
 
-- 📫 How to reach me **abhichy30@gmail.com**
+- 📫 How to reach me **chowdhuryavijit333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
