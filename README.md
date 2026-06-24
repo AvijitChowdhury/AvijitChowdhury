@@ -53,7 +53,7 @@
 
 ### AI Full-Stack Developer | Software Test Engineer | MERN Stack Developer
 
-<img src="images/Software developer.png" width="500"/>
+<img src="images/Software developer.png.png" width="500"/>
 
 </div>
 
