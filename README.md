@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋, I'm </h4><img width="550" align="right" src="images/Software developer.png"></a>
+<!-- <h4 align="left">Hi 👋, I'm </h4><img width="550" align="right" src="images/Software developer.png"></a>
 <h2 align="left">Avijit Chowdhury</h2>
 <h3 align="left">I'm a Web and Android Programmer. Proficient in various stacks like full stack web development, Android development, Machine learning, Blockchain.</h3>
 <p> Well-versed in numerous programming languages & libraries including HTML5, CSS3, Bootsrap, ReactBootsrap, Material UI, JavaScript(ES6), ReactJS, React-Native, NodeJS, MongoDB, SQL, MySQL, Python, Java, ,C++, C,Ros, FORTRAN, MATLAB, Stremlit, Solidity, Hardhatjs etc.</p><p> Currently, I am completing Undergraduate (Bsc Engineering) from Chittagong University of Engineering & Technology, Chittagong, Bangladesh.</p><p> I'm interested in developing web ,android, machine learning and ROS projects.🤖</p>
@@ -56,4 +56,157 @@
 
 
 
+ -->
+ <div align="center">
+
+# Hi there 👋, I'm Avijit Chowdhury
+
+### AI Full-Stack Developer | Software Test Engineer | MERN Stack Developer
+
+<img src="images/Software developer.png" width="500"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **AI Full-Stack Developer** and **Software Test Engineer** with a strong software engineering background.
+
+I build and test modern web applications using AI-assisted development tools, scalable backend technologies, and automation frameworks.
+
+### 🔥 Current Focus
+
+* 🤖 Building AI-powered applications using **Lovable, Bolt, Supabase, and modern AI APIs**
+* 🌐 Developing full-stack applications using the **MERN Stack**
+* 🧪 Designing scalable test automation frameworks with **Playwright + Python**
+* ⚡ Exploring AI-assisted development and rapid product prototyping
+* ☁️ Learning cloud-native development and CI/CD practices
+
+---
+
+## 💻 Tech Stack
+
+### AI & Rapid Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=ai,github" />
+</p>
+
+**AI Tools:** Lovable, Bolt, ChatGPT, Claude, Cursor, Windsurf
+
+---
+
+### Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,typescript,html,css,tailwind,nextjs" />
+</p>
+
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* MongoDB
+* Supabase
+* REST APIs
+
+---
+
+### Software Testing & QA
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,github,git,docker" />
+</p>
+
+* Playwright (Python)
+* Pytest
+* Manual Testing
+* API Testing
+* Test Automation Framework Design
+* Page Object Model (POM)
+* Cross-browser Testing
+* CI/CD Testing
+
+---
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,jenkins" />
+</p>
+
+---
+
+## 🧪 Featured Projects
+
+### 🔹 Scalable E2E Test Automation Framework
+
+* Built a scalable automation framework using **Playwright (Python) and Pytest**
+* Implemented **Page Object Model (POM)**
+* Automated authentication, cart, and checkout workflows
+* Data-driven testing using YAML
+* CI/CD-ready architecture
+
+🔗 Repository:
+**Scalable-E2E-Test-Automation-Framework-using-Playwright-and-Pytest**
+
+---
+
+### 🔹 AI Full-Stack Applications
+
+* AI-assisted SaaS applications
+* Rapid MVP development using Lovable and Bolt
+* Full-stack applications powered by Supabase
+* MERN-based production-ready applications
+
+---
+
+## 🏆 Achievements
+
+* 🥉 **3rd Place** — IoT & Machine Learning Competition, Research Lab Chattogram
+* 🥈 **1st Runner-Up** — RMA Hackathon
+* 🏅 Top 15 — Mujib Borsho Carnival Programming Contest
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Playwright Automation
+* AI Agent Development
+* Retrieval-Augmented Generation (RAG)
+* Cloud Deployment & DevOps
+* Scalable SaaS Architecture
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/avijitchy"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:chowdhuryavijit333@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/AvijitChowdhury"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+📫 **Email:** [chowdhuryavijit333@gmail.com](mailto:chowdhuryavijit333@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AvijitChowdhury&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvijitChowdhury&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Building AI products, scalable applications, and quality software.
+
+</div>
 
