@@ -46,17 +46,7 @@
 <br>
 
 <!-- <p style="background-color:black"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avroneel&show_icons=true&locale=en&layout=compact" alt="avroneel" /></p> -->
-<br>
-<!-- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avroneel&show_icons=true&locale=en" alt="avroneel" /></p> -->
 
-
-<img align="left" alt="Mehrab Haque's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AvijitChowdhury&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AvijitChowdhury&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
- -->
  <div align="center">
 
 # Hi there 👋, I'm Avijit Chowdhury
