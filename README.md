@@ -51,7 +51,7 @@
 
 # Hi there 👋, I'm Avijit Chowdhury
 
-### AI Full-Stack Developer | Software Test Engineer | MERN Stack Developer
+###  Software Test Engineer | AI Full-Stack Developer | MERN Stack Developer
 
 <img src="images/Software developer.png.png" width="1500"/>
 
