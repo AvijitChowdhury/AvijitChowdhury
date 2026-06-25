@@ -181,7 +181,7 @@ I build and test modern web applications using AI-assisted development tools, sc
 <a href="https://linkedin.com/in/avijitchy"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:chowdhuryavijit333@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://github.com/AvijitChowdhury"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://github.com/AvijitChowdhury](https://www.upwork.com/freelancers/~0122e6ef9f1ab94c1e"><img src="https://skillicons.dev/icons?i=upwork" /></a>
+<a href="https://www.upwork.com/freelancers/~0122e6ef9f1ab94c1e"><img src="https://skillicons.dev/icons?i=upwork" /></a>
 </p>
 
 📫 **Email:** [chowdhuryavijit333@gmail.com](mailto:chowdhuryavijit333@gmail.com)
