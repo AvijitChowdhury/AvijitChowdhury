@@ -50,8 +50,8 @@
  <div align="center">
 
 # Hi there 👋, 
-<p align="center" style="display: flex; align-items: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=48&pause=1000&color=0000FF&center=true&width=700&height=80&lines=I'm+Avijit+Chowdhury;" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&size=48&pause=1000&color=3B82F6&center=true&width=700&height=80&lines=I'm+Avijit+Chowdhury;" alt="Typing SVG"/>
 </p>
 
 <h2 align="center"></h2>
